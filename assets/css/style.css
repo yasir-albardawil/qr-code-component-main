@@ -2,7 +2,10 @@
 body {
     margin: auto;
     background: #D6E2F0;
-}
+    display:grid;
+    place-items: center;
+    min-height:100vh;
+    }
 
 .box {
     background-color: white;
